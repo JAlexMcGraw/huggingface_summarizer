@@ -5,6 +5,13 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+numpy = "*"
+transformers = "*"
+datasets = "*"
+evaluate = "*"
+huggingface-hub = "*"
+jupyter = "*"
+ipykernel = "*"
 
 [dev-packages]
 
